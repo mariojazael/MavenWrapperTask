@@ -3,7 +3,7 @@
 I was supposed to add maven wrapper to this project to pass successfully. All
 I had to do was to run the following command on the root of the project: 
 
-> mvn -N io.takari:maven:wrapper
+`mvn -N io.takari:maven:wrapper`
 
 This command created three new files in the root of the project: 
 
